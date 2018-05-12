@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29423#Blackwood-s-Edinburgh-Magazine-Volume-56-Number-350-December-1844
 gutenberg_bookshelf: Blackwood's Edinburgh Magazine
 gutenberg_issued: '2009-07-16'
 gutenberg_type: Text
